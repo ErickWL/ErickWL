@@ -12,7 +12,7 @@
 - 💻 Building full-stack projects with **React**, **Spring Boot** and **MySQL**
 - 🌱 Currently deepening my backend foundations with **Node.js** and **TypeScript**
 - 🏆 Developer at **DESAFIO HACKATHON – SEMURB 2026** (FATEC Indaiatuba)
-- 📫 Reach me on [LinkedIn](www.linkedin.com/in/erick-weiller-lansarin) · [email](mailto:ericklansarin@gmail.com)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/erick-weiller-lansarin) · [email](mailto:ericklansarin@gmail.com)
 
 ## 🛠️ Tech Stack
 
